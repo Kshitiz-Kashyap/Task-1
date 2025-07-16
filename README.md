@@ -1,3 +1,4 @@
+Task 1 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +10,7 @@
 <body>
   <div class="container">
     <h1>Kshitiz Kashyap</h1>
-    <img src="profile.jpg" alt="Kshitiz" class="profile-img">
+    <img src="webpage.jpg" alt="Kshitiz" class="profile-img">
     <p>Hello! I'm Kshitiz Kashyap, a passionate web developer and tech enthusiast. I enjoy building creative and user-friendly websites. In my free time, I love exploring new technologies, coding, and sharing knowledge with others.</p>
   </div>
 </body>
